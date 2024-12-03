@@ -75,3 +75,8 @@ Kubernetes cluster: Ensure you have a running Kubernetes cluster.
 Helm: Install Helm (version 3 or later).
 
 kubectl: Install kubectl and configure it to access your cluster.
+
+#Screenshots
+![Screenshot 2024-12-03 193825](https://github.com/user-attachments/assets/f1a336d3-3b83-45a7-9000-672dda6acefe)
+![Screenshot 2024-12-03 193902](https://github.com/user-attachments/assets/7a3d4551-5c73-42c8-b15a-449c2f325ad5)
+
